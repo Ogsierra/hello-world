@@ -1,2 +1,3 @@
 # hello-world
-First and Main
+I don't know how to code so this is a new experience for me.
+I hope I learn.
